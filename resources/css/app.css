@@ -1,0 +1,13 @@
+/* resources/css/app.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.select2 {
+    width: 100% !important;
+}
